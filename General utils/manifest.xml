@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package version="0.1.0" uuid="generalutils-7c30bc">
+ <names>
+  <name lang="en_US">General utils</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">General utilities for working with Nao robots.</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="Stand up">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Sit down">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
